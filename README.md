@@ -2,6 +2,8 @@
 
 👋 Hi! I'm a Software Engineering student at the University of Seville, currently working on my final degree project.
 
+I’m especially interested in software development, clean architecture, and real-world problem solving. Always curious, always motivated!
+
 Always looking to grow and take on new challenges!
 
 # 🌐 Socials:
